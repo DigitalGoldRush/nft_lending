@@ -83,7 +83,11 @@ Streamlit will open a browser and connect to the application at localhost:8501
 [Taofik Sulaiman](https://github.com/tosulai2)
 
 ---
+## Streamlit URL for the final production/ public app
 
+https://jgrichardson-nft-lending-dashboard-823rug.streamlitapp.com/
+
+---
 ## License
 
 The source code for the application is licensed under the MIT license, which you can find in the LICENSE file in this repo.
